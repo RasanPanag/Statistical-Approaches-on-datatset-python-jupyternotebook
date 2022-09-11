@@ -1,7 +1,7 @@
 # Creator: Rasandeep Singh Panag
 
 ## General Concept:
-This repository that how we can use python in jupyter notebook and how we can perform Statistical approaches on a dataset. This dataset **file1.csv** is a collection of English sentence pairs. The crowd was asked about the truth value of the second sentence if the first sentence were true and to what extent the sentences are related on a scale of 1 to 5. The variance of this score over the crowd’s judgments is included as well. In this dataset I will make first 70% of my data as my training data, and the remaining data will be my Test data.
+This repository shows that how we can use python in jupyter notebook and how we can perform Statistical approaches on a dataset. This dataset **file1.csv** is a collection of English sentence pairs. The crowd was asked about the truth value of the second sentence if the first sentence were true and to what extent the sentences are related on a scale of 1 to 5. The variance of this score over the crowd’s judgments is included as well. In this dataset I will make first 70% of my data as my training data, and the remaining data will be my Test data.
 
 ## Statistical Concepts Performed:
 - **Simple Linear Regression**: regression model that estimates the relationship between one independent variable and one dependent variable using a straight line. Both variables should be quantitative.  
